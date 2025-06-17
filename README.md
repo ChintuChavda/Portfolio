@@ -1,4 +1,4 @@
-# 🌐 Deep Kardani Portfolio
+# 🌐 Chintu Chavda Portfolio
 
 Welcome to my **Next.js** portfolio! This project showcases my skills, projects, and experiences as a **Full-Stack Developer**, built with cutting-edge web technologies.
 
