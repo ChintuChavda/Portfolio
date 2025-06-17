@@ -41,9 +41,8 @@ Welcome to my **Next.js** portfolio! This project showcases my skills, projects,
 Check out the live portfolio: [Portfolio Link](https://deep-k-portfolio.vercel.app/)
 
 ## 📬 Contact
-- **Email**: [kardanideep1@gmail.com](mailto:kardanideep1@gmail.com)
-- **LinkedIn**: [Deep Kardani](https://www.linkedin.com/in/kardani-deep/)
-- **GitHub**: [Kardanideep](https://github.com/Kardanideep)
-
+- **Email**: [chintuchavda1823@gmail.com](mailto:chintuchavda1823@gmail.com)
+- **LinkedIn**: [Chintu Chavda](https://www.linkedin.com/in/chintu-chavda/)
+- 
 ---
 **Made with ❤️ by Deep Kardani**
