@@ -45,4 +45,4 @@ Check out the live portfolio: [Portfolio Link](https://deep-k-portfolio.vercel.a
 - **LinkedIn**: [Chintu Chavda](https://www.linkedin.com/in/chintu-chavda/)
   
 ---
-**Made with ❤️ by Deep Kardani**
+**Made with ❤️ by Chintu Chavda**
