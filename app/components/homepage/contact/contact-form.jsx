@@ -61,11 +61,17 @@ function ContactForm() {
       setIsLoading(true);
       // alert("Sending request to:", `${process.env.NEXT_PUBLIC_APP_URL}/api/contact`);
       // alert("User input:", userInput);
+
+      
+      
     
       const res = await axios.post(
         `${process.env.NEXT_PUBLIC_APP_URL}/api/contact`,
         userInput
       );
+
+      console.log("api called successfully"); 
+
     
       // alert("API response:", res); // 🔍 Check if API responds
       // alert("Button clicked!3");
@@ -73,7 +79,7 @@ function ContactForm() {
       toast.success("Message sent successfully!");
       setUserInput({
         name: "",
-        email: "",
+        email: "",  
         message: "",
       });
     } catch (error) {

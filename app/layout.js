@@ -10,11 +10,11 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Deep Kardani - Full Stack Developer",
+  title: "Chintu Chavda - Frontend Developer",
   description:
-    "This is the portfolio of Deep Kardani. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I'm Chintu Chavda, a passionate frontend developer driven by creativity and a love for crafting beautiful user interfaces. With a strong self-learning mindset, I continuously explore modern web technologies to sharpen my skills. Specializing in JavaScript, I build dynamic and responsive web applications using frameworks like React.js and Next.js. I focus on delivering seamless user experiences, ensuring performance, accessibility, and clean design across all devices.",
   icons: {
-      icon: "/logo1.ico", // Path to your favicon
+      icon: "/CCC1.jpg", // Path to your favicon
     },
 };
 

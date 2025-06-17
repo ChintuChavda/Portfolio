@@ -20,9 +20,9 @@ function Navbar() {
   <div className="container mx-auto flex items-center justify-between px-4 py-2 md:py-3">
     {/* Logo on the left */}
       <img
-        src="/logo.webp"
-        alt="Deep Kardani Logo"
-        className="h-8 w-auto md:h-10 object-contain"
+        src="/CCC1.jpg"
+        alt="Chintu Chavda Logo"
+        className="h-16 w-auto md:h-10 object-contain"
       />
     
 

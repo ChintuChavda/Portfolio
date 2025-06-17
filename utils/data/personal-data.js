@@ -1,18 +1,21 @@
 export const personalData = {
-  name: "DEEP KARDANI",
-  profile: '/profile1.png',
-  designation: "full Stack Developer",
-  description: "I'm Deep Kardani, a passionate programmer driven by curiosity and a love for problem-solving. With a strong self-learning mindset, I continuously explore new technologies to expand my expertise. Specializing in JavaScript, I work across the full stack to build dynamic, scalable, and efficient web applications. From front-end frameworks like React and Next.js to back-end technologies such as Node.js and Express, I focus on creating seamless user experiences with performance and security in mind.", 
-  description1: "Beyond development, I actively engage in the tech community, contribute to open-source projects, and share insights through blogging. My goal is to push the boundaries of innovation, making technology more accessible and impactful. I'm eager to collaborate on exciting projects where I can grow, contribute, and make a lasting difference in the industry.",
-  email: 'kardanideep1@gmail.com',
-  phone: '+91 9727927266',
-  address: 'Gujarat , Rajkot-3600001 ',
-  github: 'https://github.com/Kardanideep',
-  facebook: '/',
-  linkedIn: 'https://www.linkedin.com/in/kardani-deep',
-  twitter: '/',
-  stackOverflow: '/',
+  name: "CHINTU CHAVDA",
+  profile: "/profile1.jpg",
+  designation: "Frontend Developer",
+  description:
+    "I'm Chintu Chavda, a passionate frontend developer driven by creativity and a deep curiosity for web technologies. With a strong self-learning mindset, I continuously explore new tools and frameworks to enhance user experiences. Specializing in JavaScript, I focus on building dynamic, responsive, and user-friendly interfaces using React.js, Next.js, and modern UI libraries. My priority is clean design, performance, and accessibility across all devices.",
+  description1:
+    "Beyond development, I stay connected with the tech community, contribute to frontend projects, and share knowledge through blogs and tutorials. My goal is to craft meaningful digital experiences and make technology more intuitive and visually appealing. I'm always excited to collaborate on creative frontend projects that challenge me and allow me to grow while making a positive impact in the web development space.",
+  email: "chintuchavda1823@gmail.com",
+  phone: "+91 9328014505",
+  address: "Gujarat , Junagadh-362001 ",
+  github: "https://github.com/chintuchavda",
+  facebook: "/",
+  linkedIn: "https://www.linkedin.com/in/chintu-chavda",
+  twitter: "/",
+  stackOverflow: "/",
   leetcode: "/",
   devUsername: "",
-  resume: "https://drive.google.com/file/d/1lJNjj7yrDps-cwfhvR-U6mahmzSfRo7S/view?usp=drive_link"
-}
+  resume:
+    "https://drive.google.com/file/d/12zm9_sWsnSd2qmgx_l2nvf1oE6dytFbZ/view?usp=sharing",
+};
