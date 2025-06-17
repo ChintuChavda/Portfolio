@@ -38,7 +38,7 @@ Welcome to my **Next.js** portfolio! This project showcases my skills, projects,
   ```
 
 ## 🔗 Live Demo
-Check out the live portfolio: [Portfolio Link](https://deep-k-portfolio.vercel.app/)
+Check out the live portfolio: [Portfolio Link](https://chintu1823-portfolio.vercel.app/)
 
 ## 📬 Contact
 - **Email**: [chintuchavda1823@gmail.com](mailto:chintuchavda1823@gmail.com)
